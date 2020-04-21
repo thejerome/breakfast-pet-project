@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/thejerome/ifmo-pet-proj-demo-v2.svg?token=HfXmzs7QobfYdxfmqkPo&branch=master)](https://travis-ci.com/thejerome/ifmo-pet-proj-demo-v2)
+[![Build Status](https://travis-ci.com/thejerome/breakfast-pet-project.svg?branch=master)](https://travis-ci.com/thejerome/breakfast-pet-project)
 
 # Pet Project For the *Greater Good*
 
